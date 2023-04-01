@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jhonatan Eduardo, programador Python 🖐️
+### Hello! I'm Jhonatan Eduardo, Python programmer. Check out my skills! 🖐️
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akinori404)
@@ -9,7 +9,7 @@
 ![Jhonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=AkinoriKoerich&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkinoriKoerich)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use on a daily basis.
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
@@ -20,10 +20,10 @@
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
 </div><br/>
 
-Os três atributos mais importantes na vida de uma pessoa são: Insistência, foco e perseverança, com isso, você muda o mundo!
+The three most important attributes in a person's life are: Persistence, focus, and perseverance. With these, you can change the world!
 
-## Contato
+## Contacts
 
-- Email de contato - coalav75@gmail.com<br/>
+- Email - coalav75@gmail.com<br/>
 - Telefone/Celular - [14991631695](https://wa.me/5514991631695)
 
