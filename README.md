@@ -6,8 +6,8 @@
 [![Gmail](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514991631695)
 
 
-![Jhonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=AkinoriKoerich&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkinoriKoerich)](https://github.com/anuraghazra/github-readme-stats)
+![Jhonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeAkinori&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAkinori)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I use on a daily basis.
 
