@@ -30,5 +30,4 @@ The three most important attributes in a person's life are: Persistence, focus, 
 ## Contacts
 
 - Email - coalav75@gmail.com<br/>
-- Telefone/Celular - [14991631695](https://wa.me/5514991631695)
 
