@@ -2,7 +2,7 @@
 * :desktop_computer: Sou desenvolvedor Web Full-Stack :robot:
 * :leaves: Tenho formação em Biologia e atuava como empreendedor 
 * :amphora: Emprendia com kokedamas, plantas e cerâmica
-* :mailbox: Para mais informações, conecte-se comigo no <a href="https://www.linkedin.com/in/breno-lg/" target="_blank">linkedIn</a> ou entre em contato por  <a href="mailto: brenolgar@gmail.com"> email</a>
+* :mailbox: Para mais informações, conecte-se comigo no <a href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/" target="_blank">linkedIn</a> ou entre em contato por  <a href="mailto: coalav75@gmail.com"> email</a>
 
 <br>
 <div>
@@ -19,11 +19,11 @@
 	     <table align="right">
 					<tbody>
 							 <tr>
-									<td align="center">Javascript</td>
-									<td align="center">React</td>
+									<td align="center">Python</td>
+									<td align="center">JavaScript</td>
 									<td align="center">Node</td>
-									<td align="center">HTML5</td>
-									<td align="center">CSS3</td>
+									<td align="center">Django</td>
+									<td align="center">AI Tech</td>
                   <td align="center">Redux</td>
 							  </tr>
 							  <tr>
@@ -32,7 +32,7 @@
 											align="center"
 											height="30"
 											width="40"
-											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/python-original.svg" />
 									 </td>
 									 <td align="center">
 											<img
