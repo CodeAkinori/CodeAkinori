@@ -40,7 +40,7 @@
 											align="center"
 											height="30"
 											width="40"
-											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+											src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
 									</td>
 									<td align="center">
 											<img
