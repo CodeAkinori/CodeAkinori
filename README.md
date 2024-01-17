@@ -125,7 +125,7 @@
 							</tr>
 							<tr align="center">
 							    <td align="center">Typescript</td>
-							    <td align="center">R</td>
+							    <td align="center">Redis</td>
 									<td align="center">Jira</td>
 									<td align="center">Databricks</td>
 									<td align="center">Apache Spark</td>
@@ -145,7 +145,7 @@
 											  align="center"
 												height="30"
 												width="40"
-												src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" 
+												src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" 
 												/>	
 									</td>            
 									<td align="center">
@@ -153,7 +153,7 @@
 											  align="center"
 												height="30"
 												width="40"
-												src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png"
+												src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"
 												/>	
 									</td>    
 									<td align="center">
