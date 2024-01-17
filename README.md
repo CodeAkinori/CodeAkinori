@@ -186,7 +186,7 @@
 									<td align="center">Gimp</td>
 									<td align="center">Slack</td>
 									<td align="center">Figma</td>
-								 <td align="center">Python</td>
+								 <td align="center">Linux</td>
                   <td align="center">Steam</td>
 							</tr>
 							<tr>
@@ -232,7 +232,7 @@
 												align="center"
 												height="30"
 												width="40"
-												src="https://user-images.githubusercontent.com/103611470/212475815-a3154e78-68ac-4d4b-b5d5-6e4168a69948.png"/>
+												src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"/>
 									</td>   
 								</tr>
 					</tbody>
@@ -257,15 +257,15 @@
 <br>
 <br>
 <br>
-  <h1 align="center">Redes Sociais</h1>
-  <a href="mailto: brenolgar@gmail.com">
+  <h1 align="center">Social</h1>
+  <a href="mailto: coalav75@gmail.com">
 	<img
 			align="center"
 			height="50"
 			src="https://user-images.githubusercontent.com/103611470/212475905-d14fd4fa-4ea5-41a4-a161-12c1cd42e277.png" />
 	</a>
 	<a
-		href="http://www.linkedin.com/in/breno-lg"
+		href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/"
 		target="_blank"
 		rel="noopener noreferrer">
 		<img
@@ -273,17 +273,7 @@
 			height="50"
 			src="https://user-images.githubusercontent.com/103611470/212475971-cbf5aa0a-6714-4b8e-b5ae-4f64817ad12a.png" />
 	</a>
-		<a
-		href="https://brenolg.github.io"
-		target="_blank"
-		rel="noopener noreferrer">
-		<img
-			align="center"
-			height="50"
-			src="./click.png" />
 	</a>
 </div>
 
 ![Snake animation](https://github.com/brenolg/brenolg/blob/output/github-contribution-grid-snake.svg)
-
-
