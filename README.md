@@ -61,7 +61,7 @@
 												align="center"
 												height="30"
 												width="40"
-												src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+												src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
 									</td>
 									<td align="center">
 											<img
@@ -72,10 +72,10 @@
 									</td>  
 							  </tr>
 							  <tr>
-								  <td align="center">Github</td>
+								  <td align="center">Git</td>
 									<td align="center">SQL</td>
-									<td align="center">Jest</td>
-									<td align="center">RTL</td>
+									<td align="center">React</td>
+									<td align="center">Flask</td>
 									<td align="center">Docker</td>
 									<td align="center">ESLint</td>
 							  </tr>
@@ -99,14 +99,14 @@
 												align="center"
 												height="30"
 												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>         
+												src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>         
 									</td>  
 									<td align="center">
 											<img
 												align="center"
 												height="30"
 												width="40"
-    										src="https://testing-library.com/img/octopus-128x128.png" />
+    										src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
 									</td>  
 									<td align="center">
 											<img
@@ -125,11 +125,11 @@
 							</tr>
 							<tr align="center">
 							    <td align="center">Typescript</td>
-							    <td align="center">Express</td>
+							    <td align="center">R</td>
 									<td align="center">API</td>
-									<td align="center">Sequelize</td>
-									<td align="center">JWT</td>
-									<td align="center">TailwindCSS</td>
+									<td align="center">Databricks</td>
+									<td align="center">Apache Spark</td>
+									<td align="center">TensorFlow</td>
 							</tr>
 							<tr>
 									<td align="center">
@@ -153,7 +153,7 @@
 											  align="center"
 												height="30"
 												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+												src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png"
 												/>	
 									</td>    
 									<td align="center">
@@ -161,7 +161,7 @@
 											  align="center"
 												height="30"
 												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+												src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"
 												/>	
 									</td>      
 									<td align="center">
@@ -177,7 +177,7 @@
 											  align="center"
 												height="30"
 												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+												src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" 
 												/>	          
 									</td>  
 							</tr>
