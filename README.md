@@ -1,19 +1,19 @@
 ## Sobre mim
-* :desktop_computer: Sou desenvolvedor Web Full-Stack :robot:
-* :leaves: Tenho formação em Biologia e atuava como empreendedor 
-* :amphora: Emprendia com kokedamas, plantas e cerâmica
-* :mailbox: Para mais informações, conecte-se comigo no <a href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/" target="_blank">linkedIn</a> ou entre em contato por  <a href="mailto: coalav75@gmail.com"> email</a>
+* :desktop_computer: Full-Stack Developer & Educator at EBAC | Python Expert | Content Creator | AI & Backend Development :robot:
+* :leaves: Educated in Systems Development, Automations, and Artificial Intelligence
+* :amphora: CEO Vision/Nexus
+* :mailbox: For more information, connect with me on <a href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/" target="_blank">linkedIn</a> or contact me by  <a href="mailto: coalav75@gmail.com"> email</a>
 
 <br>
 <div>
   
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=brenolg&show_icons=true&theme=transparent"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolg&show_icons=true&theme=transparent&layout=compact"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=CodeAkinori&show_icons=true&theme=transparent"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAkinori&show_icons=true&theme=transparent&layout=compact"/>
 </div>
 <br>
 
 <div  align="center"> 
-  <h1 align="center">Tecnologias e Ferramentas</h1>
+  <h1 align="center">Technologies and Tools</h1>
   <div style="display: inline_block"><br>
 	<img align="left" height="220" alt="T-Rex" src="https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif">
 	     <table align="right">
@@ -23,7 +23,8 @@
 									<td align="center">JavaScript</td>
 									<td align="center">Node</td>
 									<td align="center">Django</td>
-									<td align="center">AI Tech</td>
+									<td align="center">Docker</td>
+									<td align="center">PostgreSQL/Firebase</td>
                   <td align="center">Redux</td>
 							  </tr>
 							  <tr>
