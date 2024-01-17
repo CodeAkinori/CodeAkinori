@@ -126,7 +126,7 @@
 							<tr align="center">
 							    <td align="center">Typescript</td>
 							    <td align="center">R</td>
-									<td align="center">API</td>
+									<td align="center">Jira</td>
 									<td align="center">Databricks</td>
 									<td align="center">Apache Spark</td>
 									<td align="center">TensorFlow</td>
@@ -145,7 +145,7 @@
 											  align="center"
 												height="30"
 												width="40"
-												src="./express.png" 
+												src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" 
 												/>	
 									</td>            
 									<td align="center">
@@ -169,7 +169,7 @@
 											  align="center"
 												height="30"
 												width="40"
-												src="./JWT.png" 
+												src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" 
 												/>	
 									</td>                                  
 									<td align="center">
