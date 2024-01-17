@@ -33,14 +33,14 @@
 											align="center"
 											height="30"
 											width="40"
-											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/python-original.svg" />
+											src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
 									 </td>
 									 <td align="center">
 											<img
 											align="center"
 											height="30"
 											width="40"
-											src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
+											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 									</td>
 									<td align="center">
 											<img
@@ -54,7 +54,7 @@
 											align="center"
 											height="30"
 											width="40"
-											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+											src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
 									</td>
 									<td align="center">
 											<img
@@ -68,7 +68,7 @@
 												align="center"
 												height="30"
 												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />       
+												src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />       
 									</td>  
 							  </tr>
 							  <tr>
