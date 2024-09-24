@@ -1,5 +1,5 @@
 ## Sobre mim
-* :desktop_computer: Full-Stack Developer & Educator at EBAC | Python Expert | Content Creator | AI & Backend Development :robot:
+* :desktop_computer: Full-Stack Developer & Educator at EBAC | Python & SQL in Martin Brower | Content Creator | AI & Backend Development :robot:
 * :leaves: Educated in Systems Development, Automations, and Artificial Intelligence
 * :amphora: CEO Vision/Nexus
 * :mailbox: For more information, connect with me on <a href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/" target="_blank">linkedIn</a> or contact me by  <a href="mailto: coalav75@gmail.com"> email</a>
@@ -25,7 +25,6 @@
 									<td align="center">Django</td>
 									<td align="center">Docker</td>
 									<td align="center">PostgreSQL/Firebase</td>
-                  <td align="center">Redux</td>
 							  </tr>
 							  <tr>
 							  	 <td align="center">									
@@ -235,6 +234,7 @@
 												src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"/>
 									</td>   
 								</tr>
+							</img>	
 					</tbody>
 			 </table>
   </div>
