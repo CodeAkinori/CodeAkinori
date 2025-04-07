@@ -1,279 +1,69 @@
-## Sobre mim
-* :desktop_computer: Full-Stack Developer & Educator at EBAC | Python & SQL in Martin Brower | Content Creator | AI & Backend Development :robot:
-* :leaves: Educated in Systems Development, Automations, and Artificial Intelligence
-* :amphora: CEO Vision/Nexus
-* :mailbox: For more information, connect with me on <a href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/" target="_blank">linkedIn</a> or contact me by  <a href="mailto: coalav75@gmail.com"> email</a>
+<h2 align="left">Hi! My name is Jhonatan</h2>
 
-<br>
-<div>
-  
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=CodeAkinori&show_icons=true&theme=transparent"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAkinori&show_icons=true&theme=transparent&layout=compact"/>
-</div>
-<br>
+###
 
-<div  align="center"> 
-  <h1 align="center">Technologies and Tools</h1>
-  <div style="display: inline_block"><br>
-	<img align="left" height="220" alt="T-Rex" src="https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif">
-	     <table align="right">
-					<tbody>
-							 <tr>
-									<td align="center">Python</td>
-									<td align="center">JavaScript</td>
-									<td align="center">Node</td>
-									<td align="center">Django</td>
-									<td align="center">Docker</td>
-									<td align="center">PostgreSQL/Firebase</td>
-							  </tr>
-							  <tr>
-							  	 <td align="center">									
-											<img
-											align="center"
-											height="30"
-											width="40"
-											src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
-									 </td>
-									 <td align="center">
-											<img
-											align="center"
-											height="30"
-											width="40"
-											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-									</td>
-									<td align="center">
-											<img
-											align="center"
-											height="30"
-											width="40"
-											src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-									</td>
-									<td align="center">
-											<img
-											align="center"
-											height="30"
-											width="40"
-											src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
-									</td>
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-									</td>
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />       
-									</td>  
-							  </tr>
-							  <tr>
-								  <td align="center">Git</td>
-									<td align="center">SQL</td>
-									<td align="center">React</td>
-									<td align="center">Flask</td>
-									<td align="center">Docker</td>
-									<td align="center">ESLint</td>
-							  </tr>
-							  <tr>
-									<td align="center">
-											<img
-												align="center"
-												height="30"
- 												width="40"        
-												src="./github.png" />
-									</td>
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
-									</td>      
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>         
-									</td>  
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-    										src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
-									</td>  
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />	
-									</td>
-									<td align="center">        
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />	
-									</td>  
-							</tr>
-							<tr align="center">
-							    <td align="center">Typescript</td>
-							    <td align="center">Redis</td>
-									<td align="center">Jira</td>
-									<td align="center">Databricks</td>
-									<td align="center">Apache Spark</td>
-									<td align="center">TensorFlow</td>
-							</tr>
-							<tr>
-									<td align="center">
-											<img
-											  align="center"
-												height="30"
-												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-												/>	
-									</td>    
-									<td align="center">
-											<img
-											  align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" 
-												/>	
-									</td>            
-									<td align="center">
-											<img
-											  align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"
-												/>	
-									</td>    
-									<td align="center">
-											<img
-											  align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png"
-												/>	
-									</td>      
-									<td align="center">
-											<img
-											  align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" 
-												/>	
-									</td>                                  
-									<td align="center">
-											<img
-											  align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" 
-												/>	          
-									</td>  
-							</tr>
-							<tr>
-								  <td align="center">MongoDB</td>
-									<td align="center">Gimp</td>
-									<td align="center">Slack</td>
-									<td align="center">Figma</td>
-								 <td align="center">Linux</td>
-                  <td align="center">Steam</td>
-							</tr>
-							<tr>
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-	                    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-									</td>  
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/103611470/212475683-30aa8c88-7c9c-4176-a385-64daefc2f63e.png" 
-												/>	
-									</td>  
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/103611470/212475773-3c7263dd-43b7-4b24-8611-7d7992fa99d7.png" 
-												/>	
-										<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" 
-												/>	
-									</td>
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-									</td>   
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"/>
-									</td>   
-								</tr>
-							</img>	
-					</tbody>
-			 </table>
-  </div>
-</div>
-    
+<p align="left">- 🖥️ Full-Stack Developer & Educator | Python & SQL | Content Creator | AI & Backend Development<br>- 🍃 Educated in Systems Development, Automations, and Artificial Intelligence<br>- 🏺 CEO Vision/Nexus<br>- 📫 For more information, connect with me on linkedIn or contact me by email</p>
+
+###
+
 <div align="center">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  <h1 align="center">Social</h1>
-  <a href="mailto: coalav75@gmail.com">
-	<img
-			align="center"
-			height="50"
-			src="https://user-images.githubusercontent.com/103611470/212475905-d14fd4fa-4ea5-41a4-a161-12c1cd42e277.png" />
-	</a>
-	<a
-		href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/"
-		target="_blank"
-		rel="noopener noreferrer">
-		<img
-			align="center"
-			height="50"
-			src="https://user-images.githubusercontent.com/103611470/212475971-cbf5aa0a-6714-4b8e-b5ae-4f64817ad12a.png" />
-	</a>
-	</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeAkinori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeAkinori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![Snake animation](https://github.com/brenolg/brenolg/blob/output/github-contribution-grid-snake.svg)
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@srkenny404" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/devjhonataneduardo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/DevJhonatan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/29116245/dev-jhonatan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CodeAkinori/CodeAkinori/output/snake.svg" alt="Snake animation" />
+
+###
